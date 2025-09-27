@@ -9,7 +9,9 @@
 ---
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varadkamat23@gmail.com)
-[![Web Novels](https://img.shields.io/badge/Web%20Novels-Shadow%20Slave-orange?style=flat&logo=book&logoColor=white)](https://example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/567434303701778452)
+[![Web Novels](https://img.shields.io/badge/Web%20Novels-Shadow%20Slave-orange?style=flat&logo=book&logoColor=white)](#)
+
 ---
 
 ## 💻 Tech Stack
