@@ -79,9 +79,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrokenDEV-23&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BrokenDEV-23&theme=dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrokenDEV-23&theme=dark&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SegfaultSoul&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SegfaultSoul&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SegfaultSoul&theme=dark&hide_border=false&layout=compact" height="150"/>
 </div>
 
 ---
