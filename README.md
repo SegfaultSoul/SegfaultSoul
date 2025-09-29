@@ -87,8 +87,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BrokenDEV-23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SegfaultSoul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=BrokenDEV-23&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SegfaultSoul&icon=0&color=0)](https://visitcount.itsvg.in)
